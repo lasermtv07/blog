@@ -3,7 +3,7 @@ Hi.<br>
 This post is about how this blog technically works. This page *(written on 15/10/23)* is sorta the first "serious post here".
 ### History
 This is the thrid rewrite of this page. The first geenration was only a simple, 2006-like page I hosted interpreter of my [dumb esolang](https://github.com/lasermtv07/caesarlang) on.
-However, my friend bullied me on how awful my website is, so I rewrote it. The second rewrite looked sorta like this: ![image](https://github.com/lasermtv07/blog/assets/118477750/54a3138d-cc67-4fc4-a2f6-586d9a492757)
+However, my friend bullied me on how awful my website is, so I rewrote it. The second rewrite looked sorta like this: <img src="https://github.com/lasermtv07/blog/assets/118477750/54a3138d-cc67-4fc4-a2f6-586d9a492757" width="250px" />
 It already looked much better; maybe better than the third rewrite, however it lacked one thing; a proper serverside scripting. It had *some* Javascript, however it was static. There was no CMS, nothing, so all pages
 had to be coded and uploaded manually. It got really annoying, so I simply didnt upload anything. Well, one day i decided to rewrite it once again; with a CMS. I had a few options to choose:
 ### Use WordPress or something alike
